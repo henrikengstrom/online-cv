@@ -15,7 +15,7 @@ sidebar:
     email:
     website:
     linkedin: henrikengstrom
-    github: henrikengtrom
+    github: henrikengstrom
     twitter: '@h3nk3'
     stack-overflow:
     codewars:
@@ -55,13 +55,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      More than 20 years’ professional experience of architecting, designing, and developing software solutions using a multitude of technologies and programming languages.
 
-      Second paragraph if required.
+      Expert in OOP, FP, SOA/microservices, Java, Scala, observability, site reliability, distributed reactive systems, application servers, databases, and integration software.
+
+      Presenter at 20+ tech conferences throughout the world and voted JavaOne Rockstar presenter in 2016.
 
 education:
     - degree: MSc in Computer Science
@@ -105,51 +103,28 @@ experiences:
       company: Typesafe
       details: |
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
 publications:
-    title: Publications
+    title: Presentations
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Here are some of the presentations I have made over the last couple of years:
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        - Akka Streams; a match in heaven for Reactive Systems, Devnexus | Atlanta, USA | 2018
+        - Monitoring Reactive Microservices, Reactive Summit | Austin, USA | 2017
+        - Building reactive applications with Akka, O’Reilly SW Architecture | NY, USA | 2017
+        - Monitoring Reactive Microservices, JavaOne (voted Rockstar presenter) | SF, USA | 2016
+        - Reactive Architecture with Play, Akka, and Scala, OSCON | Portland, USA | 2015
+        - Up up and out: Scaling software with Akka, JavaOne | Shanghai, China | 2013
+        - Effective Scala, JavaOne | Shanghai, China | 2013
+        - Up up and out: Scaling software with Akka, Code Motion | Berlin, Germany | 2013
+        - Effective Scala,  JFokus | Stockholm, Sweden | 2013
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Scala
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
