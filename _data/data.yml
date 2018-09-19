@@ -98,33 +98,81 @@ experiences:
       company: Typesafe
       details: |
 
-    - role: Senior Software Engineer
+    - role: Senior Software Engineer (contractor)
       time: 2011 - 2012
       company: Typesafe
       details: |
+
+    - role: Architect (contractor)
+      time: 2010 - 2011
+      company: Unibet
+      details: |
+
+    - role: Senior Software Engineer (contractor)
+      time: 2008 - 2009
+      company: NetEntertainment
+      details: |
+
+    - role: Web Service Strategy Architect (contractor)
+      time: 2008
+      company: ICA Ahold
+      details: |
+
+    - role: Real Time Java Engineer (contractor)
+      time: 2008
+      company: Cinnober
+      details: |
+
+    - role: SOA Architect (contractor)
+      time: 2007 - 2008
+      company: Nordea
+      details: |
+
+    - role: Java Architect and Team Lead (contractor)
+      time: 2006 - 2007
+      company: Unibet
+      details: |
+
+    - role: Team Lead (contractor)
+      time: 2005 - 2006
+      company: ICA Ahold
+      details: |
+
+    - role: Misc assignments and roles
+      time: 1998 - 2005
+      company:
+      details: |
+
+        Worked as a consultant in various roles as architect, programmer, database engineer for clients in Sweden,
+        Finland, and the United Kingdom. Further details available upon request.
+
+
 
 publications:
     title: Presentations
     intro: |
       Here are some of the presentations I have made over the last couple of years:
 
-        - Akka Streams; a match in heaven for Reactive Systems, Devnexus | Atlanta, USA | 2018
-        - Monitoring Reactive Microservices, Reactive Summit | Austin, USA | 2017
-        - Building reactive applications with Akka, O’Reilly SW Architecture | NY, USA | 2017
-        - Monitoring Reactive Microservices, JavaOne (voted Rockstar presenter) | SF, USA | 2016
-        - Reactive Architecture with Play, Akka, and Scala, OSCON | Portland, USA | 2015
-        - Up up and out: Scaling software with Akka, JavaOne | Shanghai, China | 2013
-        - Effective Scala, JavaOne | Shanghai, China | 2013
-        - Up up and out: Scaling software with Akka, Code Motion | Berlin, Germany | 2013
-        - Effective Scala,  JFokus | Stockholm, Sweden | 2013
+        - Akka Streams; a match in heaven for Reactive Systems, Devnexus - Atlanta, USA - 2018
+        - Monitoring Reactive Microservices, Reactive Summit - Austin, USA - 2017
+        - Building reactive applications with Akka, O’Reilly SW Architecture - NY, USA - 2017
+        - Monitoring Reactive Microservices, JavaOne (voted Rockstar presenter) - SF, USA - 2016
+        - Reactive Architecture with Play, Akka, and Scala, OSCON - Portland, USA - 2015
+        - Up up and out: Scaling software with Akka, JavaOne - Shanghai, China - 2013
+        - Effective Scala, JavaOne - Shanghai, China - 2013
+        - Up up and out: Scaling software with Akka, Code Motion - Berlin, Germany - 2013
+        - Effective Scala,  JFokus - Stockholm, Sweden - 2013
 
 skills:
-    title: Skills
+    title: Skills &amp; Proficiency
 
     toolset:
       - name: Scala
+        level: 75%
 
-      - name: Java
+      - name: Jav
+        level: 75%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
